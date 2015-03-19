@@ -1,0 +1,2 @@
+# normiranci
+Navodila za normirance
